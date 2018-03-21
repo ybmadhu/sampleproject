@@ -164,7 +164,7 @@ setup(
         'console_scripts': [
             'sample=sample:main',
         ],
-    },
+    }
 
     # List additional URLs that are relevant to your project as a dict.
     #
